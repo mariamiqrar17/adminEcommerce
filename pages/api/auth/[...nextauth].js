@@ -4,10 +4,10 @@ import { MongoDBAdapter } from "@next-auth/mongodb-adapter";
 import clientPromise from "@/lib/mongodb";
 
 const adminEmails = [
-  "rana.habib313@gmail.com",
-  "info.waseem1234@gmail.com",
+  "gorayausman061@gmail.com",
   "ali1089ntu@gmail.com",
   "mariamiqrar2@gmail.com",
+  "rana.habib313@gmail.com",
 ];
 
 export const authOptions = {
